@@ -165,7 +165,7 @@ FEATURE_NAMES = [
 # Header
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown("# Group 10 - Rock Leachate Volume Predictor")
-st.markdown("### Syed Muhammad Ali SHAH - Muhammad Usman ASGHER - Syed Umar HASANY")
+st.markdown("### Muhammad Usman ASGHER")
 st.markdown("### Predict leachate volume from rock characteristics and event sequences")
 st.markdown("---")
 
